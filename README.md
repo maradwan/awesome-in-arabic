@@ -182,6 +182,11 @@
 - [برمجة دوت كوم - Brmja com](https://www.youtube.com/channel/UCsJXcO7KwOTjji445It3ZHQ)
 - [ Ahmed Ash](https://www.youtube.com/user/smiledevelop)
 - [Ahmed Abdulrahman](https://www.youtube.com/c/CodingMastery)
+- [Amazon Leadership Principles بالعربي](https://www.youtube.com/playlist?list=PL7xmmieDs5KZkrnyEr_oOGjPJcuZUCI3Q)
+- [Docker Workshop ورشة تعليم دوكر بالعربي](https://www.youtube.com/watch?v=oxRjGqjUXFA)
+- [DevOps! What, Why, How? بالعربي](https://www.youtube.com/watch?v=sApv-E87mXI)
+
+
 
 ## تعلم الآلة
 
@@ -220,6 +225,13 @@
 ### الكويت
 
 - [Azure Kuwait](https://twitter.com/azure_q8) - Azure تجمع خاص بالمهتمين بسحابية مايكروسوفت
+
+### المانيا
+
+- [Egyptian Techies in Berlin] (https://www.facebook.com/egytechberlin) - صفحة تخص التيكيز في برلين   
+- [Egyptian Techies in Germany] (https://www.facebook.com/groups/egyptiantechiesingermany) - جروب خاص بالتيكيز في المانيا 
+- [Wiki] (https://egyptians-in-germany.de/) -  صفحة الويكي  
+
 
 ## مواقع إلكترونية
 
